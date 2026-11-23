@@ -1,0 +1,8 @@
+*
+!/.gitignore
+!/README.md
+!/SECURITY.md
+!/.github/
+!/.github/ISSUE_TEMPLATE/
+!/.github/ISSUE_TEMPLATE/bug.yml
+!/.github/ISSUE_TEMPLATE/config.yml
